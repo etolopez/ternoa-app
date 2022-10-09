@@ -1,3 +1,4 @@
-### 'NPM RUN START' 
+App deployed at:
 
-To run 
+
+https://solana-app.netlify.app/
